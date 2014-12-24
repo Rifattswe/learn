@@ -1,0 +1,4 @@
+#menu
+- friend rice
+- chicken fry
+- daal
