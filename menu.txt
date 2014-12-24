@@ -1,4 +1,6 @@
 #menu
 - coffee
 - samucha
-- shinggara
+- shinggaraus
+- chotpoti
+- fusdka
