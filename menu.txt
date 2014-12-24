@@ -2,3 +2,8 @@
 - coffee
 - samucha
 - shinggara
+
+#main items
+- Bhaat
+- Daal
+- Eelish Mach
